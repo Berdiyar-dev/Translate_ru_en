@@ -1,0 +1,3 @@
+pip install aiogram
+pip install translate
+pip install python-dotenv
